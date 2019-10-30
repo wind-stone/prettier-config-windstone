@@ -1,0 +1,13 @@
+{
+  "name": "prettier-config-windstone",
+  "version": "0.1.0",
+  "description": "Wind Stone's Prettier config",
+  "repository": "https://github.com/wind-stone/prettier-config-windstone",
+  "main": "index.js",
+  "keywords": [
+    "prettier-config",
+    "windstone"
+  ],
+  "author": "wind-stone",
+  "license": "ISC"
+}
